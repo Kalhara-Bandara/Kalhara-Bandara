@@ -81,11 +81,19 @@ Welcome to my Digital Universe! 🌌✨
 
 ---
 
-# 🏆 Achievement Trophies
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kalhara-Bandara&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+![Followers](https://img.shields.io/github/followers/Kalhara-Bandara?style=for-the-badge&logo=github&label=Followers)
+
+![Repositories](https://img.shields.io/badge/Public%20Projects-Explore-blue?style=for-the-badge&logo=github)
+
+![Stars](https://img.shields.io/github/stars/Kalhara-Bandara?style=for-the-badge&logo=github&label=Total%20Stars)
+
+<a href="https://github.com/Kalhara-Bandara">
+  <img src="https://img.shields.io/badge/View%20My%20GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
